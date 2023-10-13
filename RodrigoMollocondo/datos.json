@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Rodrigo",
+        "apellido": "Mollocondo",
+        "edad": 23,
+        "pais" : "Peru",
+        "ciudad" : "Arequipa"
+
+    }
+]
